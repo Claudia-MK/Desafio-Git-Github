@@ -1,0 +1,1 @@
+# Typora## Como alterar tema - Abra a pasta do tema na seção Preference Panel -> Appearence - Copie css e recursos relacionados, como fontes ou imagens, para a pasta recém aberta. - Reinicie o typora e selecione-o no Themesmenu
